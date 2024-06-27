@@ -143,7 +143,7 @@ const SupplyChainSimulator = () => {
 
   return (
     <div className="p-4 max-w-6xl mx-auto">
-      <h1 className="text-3xl font-bold mb-4">Diagrammatic Blockchain Supply Chain Simulator</h1>
+      <h1 className="text-3xl font-bold mb-4">UNICEF Ventures Blockchain Supply Chain Simulator</h1>
       <p className="mb-4">
         Watch the flow of goods through the supply chain and see how each step is recorded in the blockchain.
       </p>
