@@ -48,5 +48,5 @@ export default defineConfig({
         shared: ['react','react-dom']
       })
     ],
-    base: process.env.NODE_ENV == 'production' ? 'https://playground-common-components.s3.eu-north-1.amazonaws.com' : 'http://localhost:4176',
+    base: process.env.NODE_ENV == 'production' ? 'https://blockchain-supplychain.s3.eu-north-1.amazonaws.com' : 'http://localhost:4176',
 });
